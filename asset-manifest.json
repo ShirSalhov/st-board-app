@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/st-board-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/st-board-app/static/js/main.9e67aeb7.chunk.js",
+    "main.js.map": "/st-board-app/static/js/main.9e67aeb7.chunk.js.map",
+    "runtime-main.js": "/st-board-app/static/js/runtime-main.c39e5728.js",
+    "runtime-main.js.map": "/st-board-app/static/js/runtime-main.c39e5728.js.map",
+    "static/js/2.87cefc46.chunk.js": "/st-board-app/static/js/2.87cefc46.chunk.js",
+    "static/js/2.87cefc46.chunk.js.map": "/st-board-app/static/js/2.87cefc46.chunk.js.map",
+    "index.html": "/st-board-app/index.html",
+    "precache-manifest.31102ef5bd60d211864ebcc911bd4cd7.js": "/st-board-app/precache-manifest.31102ef5bd60d211864ebcc911bd4cd7.js",
+    "service-worker.js": "/st-board-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/st-board-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.87cefc46.chunk.js.LICENSE.txt": "/st-board-app/static/js/2.87cefc46.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/st-board-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c39e5728.js",
+    "static/js/2.87cefc46.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9e67aeb7.chunk.js"
+  ]
+}
