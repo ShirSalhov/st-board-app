@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "be4885fe7765f3733bb29814befc13d9",
+    "revision": "acae56d3e0082c4d14754b9a0d144f80",
     "url": "/st-board-app/index.html"
   },
   {
-    "revision": "a2a7295f958f3955411c",
+    "revision": "39fe7bb1d7197901b4d2",
     "url": "/st-board-app/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "0f4322684dc11351a460",
-    "url": "/st-board-app/static/js/2.87cefc46.chunk.js"
+    "revision": "57c5df102eb3719d392a",
+    "url": "/st-board-app/static/js/2.3db5d485.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/st-board-app/static/js/2.87cefc46.chunk.js.LICENSE.txt"
+    "url": "/st-board-app/static/js/2.3db5d485.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a2a7295f958f3955411c",
-    "url": "/st-board-app/static/js/main.9e67aeb7.chunk.js"
+    "revision": "39fe7bb1d7197901b4d2",
+    "url": "/st-board-app/static/js/main.965d9ef8.chunk.js"
   },
   {
     "revision": "751a1389f96cac0bd0eb",
